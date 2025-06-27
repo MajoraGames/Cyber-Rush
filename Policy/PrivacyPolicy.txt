@@ -1,0 +1,13 @@
+Privacy Policy – Cyber Rush
+
+Effective Date: June 27 2025
+
+Cyber Rush does not collect, process, transmit, or share any personal or sensitive user data.
+
+The application uses local device storage only to retain non-personal gameplay information, such as score data. No data is transmitted to external servers. No network access is used for data collection purposes.
+
+Cyber Rush does not include third-party analytics, advertising SDKs, or external service integrations.
+
+No user-identifiable data is handled in any form.
+
+For any inquiries, contact: games.mjr01@gmail.com
