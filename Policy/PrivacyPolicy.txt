@@ -4,7 +4,7 @@ Effective Date: June 27 2025
 
 Cyber Rush does not collect, process, transmit, or share any personal or sensitive user data.
 
-The application uses local device storage only to retain non-personal gameplay information, such as score data. No data is transmitted to external servers. No network access is used for data collection purposes.
+The application only uses internal storage for the purpose of retaining non-personal gameplay information, such as score data. No data is transmitted to external servers. No network access is used for data collection purposes.
 
 Cyber Rush does not include third-party analytics, advertising SDKs, or external service integrations.
 
